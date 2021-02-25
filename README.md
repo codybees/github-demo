@@ -1,1 +1,1 @@
-# github-demo
+I have updated the demo registry
